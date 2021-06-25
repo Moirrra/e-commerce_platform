@@ -1,0 +1,8 @@
+admin 000000 999999
+shushang 8888 50000.00
+fushi fushi 164000.00
+luobawang luosifen 0
+shuma 666666 6000.00
+_go testgo1 0
+_go2 testgo2 0
+tangshi tangshi 0
