@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/icon/houtaizonglan.png</file>
+        <file>img/icon/kucunguanli.png</file>
+        <file>img/icon/rukuguanli.png</file>
+        <file>img/icon/tianjiashangpin.png</file>
+        <file>img/icon/xitongshezhi.png</file>
+        <file>img/icon/chazhao.png</file>
+        <file>img/icon/shanchu.png</file>
+        <file>img/icon/tianjia.png</file>
+        <file>img/icon/tuihui.png</file>
+        <file>img/icon/baocun.png</file>
+        <file>img/icon/xiugai.png</file>
+        <file>img/icon/huifu.png</file>
+        <file>img/icon/reset.png</file>
+        <file>img/icon/dazhe.png</file>
+        <file>img/pic/c++primerplus.jpg</file>
+        <file>img/pic/default.jpg</file>
+        <file>img/pic/TB183NQapLM8KJjSZFBSutJHVXa.jpg</file>
+        <file>img/icon/cempty.png</file>
+        <file>img/icon/cselect.png</file>
+        <file>img/icon/red.png</file>
+        <file>Ubuntu.qss</file>
+        <file>img/icon/orange.png</file>
+        <file>img/icon/white.png</file>
+        <file>new1.qss</file>
+        <file>img/pic/chouzhi.jpg</file>
+        <file>img/pic/effi.jpg</file>
+        <file>img/pic/jiujingmianpian.jpg</file>
+        <file>img/pic/jiwang.jpg</file>
+        <file>img/pic/OIP.jpg</file>
+        <file>img/pic/shijin.jpeg</file>
+        <file>img/pic/suda.jpg</file>
+        <file>img/pic/xuebiwutang.jpg</file>
+    </qresource>
+</RCC>
